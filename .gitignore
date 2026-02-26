@@ -4,7 +4,8 @@
 .env.production
 .env.development
 *.env
-
+.env.example
+*.env.*.local
 # Docker volumes
 postgres_data/
 
@@ -59,3 +60,20 @@ Desktop.ini
 *.temp
 *.bak
 *.cache
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
